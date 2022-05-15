@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d914e11a-5353-4750-843b-919a35c57d66" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Collections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dio/collections/java/ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dio/collections/java/ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dio/collections/java/list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dio/collections/java2/ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dio/collections/java2/ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dio/collections/java2/set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dio/collections/java3/exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dio/collections/java3/exercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dio/collections/java3/map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dio/collections/java4/stream.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29BBS9feeQsUu4G6eO5JVcHrvJO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="list" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dio.collections.java.list" />
+      <module name="Java-Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dio.collections.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.list" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d914e11a-5353-4750-843b-919a35c57d66" name="Changes" comment="" />
+      <created>1652576597567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652576597567</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
